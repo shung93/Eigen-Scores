@@ -1,0 +1,22 @@
+1. Journal: 4408, Eigenfactor: 1.4481186906767658
+2. Journal: 4801, Eigenfactor: 1.4127186417103397
+3. Journal: 6610, Eigenfactor: 1.2350345744039224
+4. Journal: 2056, Eigenfactor: 0.6795023571614872
+5. Journal: 6919, Eigenfactor: 0.6648791185697115
+6. Journal: 6667, Eigenfactor: 0.6346348415047293
+7. Journal: 4024, Eigenfactor: 0.5772329716737367
+8. Journal: 6523, Eigenfactor: 0.48081511644794395
+9. Journal: 8930, Eigenfactor: 0.47777264655981166
+10. Journal: 6857, Eigenfactor: 0.4397348022988983
+11. Journal: 5966, Eigenfactor: 0.4297177536469516
+12. Journal: 1995, Eigenfactor: 0.3862065206886991
+13. Journal: 1935, Eigenfactor: 0.3851202633995659
+14. Journal: 3480, Eigenfactor: 0.37957760331596935
+15. Journal: 4598, Eigenfactor: 0.372789008691295
+16. Journal: 2880, Eigenfactor: 0.3303062827175173
+17. Journal: 3314, Eigenfactor: 0.32750789522300316
+18. Journal: 6569, Eigenfactor: 0.319271668905672
+19. Journal: 5035, Eigenfactor: 0.3167790348824174
+20. Journal: 1212, Eigenfactor: 0.3112570455380745
+Total time (seconds): 50.19530510902405
+Total number of iterations: 31
